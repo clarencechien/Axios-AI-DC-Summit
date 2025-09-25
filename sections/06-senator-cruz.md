@@ -11,7 +11,7 @@ layout: default
 
 ## 前言
 
-AI 監管的戰場，應該在聯邦層級還是在各州層級？這是一個在華盛頓特區引發激烈辯論的核心問題。德州資深聯邦參議員、參議院商務委員會主席 Ted Cruz，是聯邦統一監管的堅定倡導者。在 Axios AI+ 峰會上，他與 Axios 的科技政策記者 Ashley Gold 進行了一場對話。
+AI 監管的戰場，應該在聯邦層級還是在各州層級？這是一個在華盛頓特區引發激烈辯論的核心問題。德州資深聯邦參議員、參議院商務委員會主席 Ted Cruz，是聯邦統一監管的堅定倡導者。在 Axios AI+ 峰會上，他與 Axios の科技政策記者 Ashley Gold 進行了一場對話。
 
 Cruz 參議員詳細闡述了他為何推動一項「州級 AI 監管暫停令」，認為若讓各州自行其是，將扼殺創新並讓美國在與中國的競爭中處於下風。同時，他也談到了在加速 AI 發展的同時，如何應對其帶來的具體危害，特別是針對兒童的網路安全問題。
 
@@ -93,4 +93,4 @@ Cruz 參議員詳細闡述了他為何推動一項「州級 AI 監管暫停令�
 **Ted Cruz:** 謝謝。
 
 ---
-[**&laquo; 上一篇：美中 AI 競賽：白宮顧問的賽局觀點**]({{ site.baseurl }}/sections/05-white-house-advisor.md) | [**下一篇：AI 賦能小微企業：Intuit 揭示的實用策略與未來 &raquo;**]({{ site.baseurl }}/sections/07-intuit-sme-ai.md)
+[**&laquo; 上一篇：美中 AI 競賽：白宮顧問的賽局觀點**]({{ site.baseurl }}/sections/05-white-house-advisor.html) | [**下一篇：AI 賦能小微企業：Intuit 揭示的實用策略與未來 &raquo;**]({{ site.baseurl }}/sections/07-intuit-sme-ai.html)
