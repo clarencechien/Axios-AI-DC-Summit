@@ -82,4 +82,4 @@ Rema 帶來了他們名為「Swifty」的機器人載具，它透過高空氣球
 **Rema Matevosyan:** 謝謝。
 
 ---
-[**&laquo; 上一篇：AI 工廠的基石：HPE 首席架構師談整合、規模與能源挑戰**](./10-hpe-infrastructure.md) | [**下一篇：AI 的民主黨視角：Ro Khanna 議員談就業、監管與經濟鴻溝 &raquo;**](./12-ro-khanna-democrats-view.md)
+[**&laquo; 上一篇：AI 工廠的基石：HPE 首席架構師談整合、規模與能源挑戰**](../sections/10-hpe-infrastructure.md) | [**下一篇：AI 的民主黨視角：Ro Khanna 議員談就業、監管與經濟鴻溝 &raquo;**](../sections/12-ro-khanna-democrats-view.md)

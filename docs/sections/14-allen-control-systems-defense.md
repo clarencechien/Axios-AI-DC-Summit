@@ -147,4 +147,4 @@ Stephen Simo 坦率地評估了美軍當前在 AI 和自主性方面的狀態，
 **Steve Simo:** 好的。
 
 ---
-[**&laquo; 上一篇：AI 的美國計畫：Mark Kelly 參議員提出公私合營的未來藍圖**](./13-mark-kelly-ai-plan.md) | [**下一篇：AI 驅動的再工業化：白宮經濟顧問的宏觀願景 &raquo;**](./15-jacob-hellberg-economics.md)
+[**&laquo; 上一篇：AI 的美國計畫：Mark Kelly 參議員提出公私合營的未來藍圖**](../sections/13-mark-kelly-ai-plan.md) | [**下一篇：AI 驅動的再工業化：白宮經濟顧問的宏觀願景 &raquo;**](../sections/15-jacob-hellberg-economics.md)
