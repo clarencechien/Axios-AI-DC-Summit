@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # AI 瞄準鏡：當智慧武器系統遇上無人機威脅
 
 **日期:** 2025年9月24日
@@ -147,4 +150,4 @@ Stephen Simo 坦率地評估了美軍當前在 AI 和自主性方面的狀態，
 **Steve Simo:** 好的。
 
 ---
-[**&laquo; 上一篇：AI 的美國計畫：Mark Kelly 參議員提出公私合營的未來藍圖**](../sections/13-mark-kelly-ai-plan.md) | [**下一篇：AI 驅動的再工業化：白宮經濟顧問的宏觀願景 &raquo;**](../sections/15-jacob-hellberg-economics.md)
+[**&laquo; 上一篇：AI 的美國計畫：Mark Kelly 參議員提出公私合營的未來藍圖**]({{ site.baseurl }}/sections/13-mark-kelly-ai-plan.html) | [**下一篇：AI 驅動的再工業化：白宮經濟顧問的宏觀願景 &raquo;**]({{ site.baseurl }}/sections/15-jacob-hellberg-economics.html)
