@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # 美中 AI 競賽：白宮顧問的賽局觀點
 
 **日期:** 2025年9月24日
@@ -123,4 +126,4 @@
 **Sriram Krishnan:** 非常感謝。好的。
 
 ---
-[**&laquo; 上一篇：數據標籤的巨頭：Scale AI 新任 CEO 的首次公開訪談**](../sections/04-scale-ai.md) | [**下一篇：聯邦 vs. 州：Ted Cruz 參議員談 AI 監管的權力劃分 &raquo;**](../sections/06-senator-cruz.md)
+[**&laquo; 上一篇：數據標籤的巨頭：Scale AI 新任 CEO 的首次公開訪談**]({{ site.baseurl }}/sections/04-scale-ai.md) | [**下一篇：聯邦 vs. 州：Ted Cruz 參議員談 AI 監管的權力劃分 &raquo;**]({{ site.baseurl }}/sections/06-senator-cruz.md)

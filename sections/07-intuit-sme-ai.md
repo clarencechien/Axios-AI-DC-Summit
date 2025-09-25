@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # AI 賦能小微企業：Intuit 揭示的實用策略與未來
 
 **日期:** 2025年9月24日
@@ -81,4 +84,4 @@
 **Anoop Sasikumar:** 絕對會。謝謝。
 
 ---
-[**&laquo; 上一篇：聯邦 vs. 州：Ted Cruz 參議員談 AI 監管的權力劃分**](../sections/06-senator-cruz.md) | [**下一篇：心電感應的邊界：AlterEgo 的無聲語音介面 &raquo;**](../sections/08-alterego-silent-speech.md)
+[**&laquo; 上一篇：聯邦 vs. 州：Ted Cruz 參議員談 AI 監管的權力劃分**]({{ site.baseurl }}/sections/06-senator-cruz.md) | [**下一篇：心電感應的邊界：AlterEgo 的無聲語音介面 &raquo;**]({{ site.baseurl }}/sections/08-alterego-silent-speech.md)

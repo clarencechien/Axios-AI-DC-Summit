@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # AI 工廠的基石：HPE 首席架構師談整合、規模與能源挑戰
 
 **日期:** 2025年9月24日
@@ -74,4 +77,4 @@ Kirk Bresniker 分享了他對於未來運算的前瞻性看法，解釋了為�
 **Kirk Bresniker:** 謝謝。
 
 ---
-[**&laquo; 上一篇：信任的實踐：Credo AI 談企業如何負責任地部署 AI**](../sections/09-credo-ai-governance.md) | [**下一篇：平流層之眼：Near Space Labs 如何用 AI 改變地球影像 &raquo;**](../sections/11-near-space-labs-imaging.md)
+[**&laquo; 上一篇：信任的實踐：Credo AI 談企業如何負責任地部署 AI**]({{ site.baseurl }}/sections/09-credo-ai-governance.html) | [**下一篇：平流層之眼：Near Space Labs 如何用 AI 改變地球影像 &raquo;**]({{ site.baseurl }}/sections/11-near-space-labs-imaging.html)

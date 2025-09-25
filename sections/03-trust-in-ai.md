@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # 信任的基石：審計專業如何為 AI 打造護欄？
 
 **日期:** 2025年9月24日
@@ -97,4 +100,4 @@
 **Nicholas Johnston:** 這是我在台上常聽到的事。人們喜歡給 AI 任務去讀童書。這太棒了。好了，非常感謝兩位來到這裡。非常感謝你們成為今天的一部分，讓今天成為可能。請留步，對話還在繼續。
 
 ---
-[**&laquo; 上一篇：晶片的戰爭：AMD 執行長 Lisa Su 談 AI 硬體競賽與國家戰略**](../sections/02-amd-lisa-su.md) | [**下一篇：數據標籤的巨頭：Scale AI 新任 CEO 的首次公開訪談 &raquo;**](../sections/04-scale-ai.md)
+[**&laquo; 上一篇：晶片的戰爭：AMD 執行長 Lisa Su 談 AI 硬體競賽與國家戰略**]({{ site.baseurl }}/sections/02-amd-lisa-su.md) | [**下一篇：數據標籤的巨頭：Scale AI 新任 CEO 的首次公開訪談 &raquo;**]({{ site.baseurl }}/sections/04-scale-ai.md)

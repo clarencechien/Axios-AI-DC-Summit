@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # AI 的民主黨視角：Ro Khanna 議員談就業、監管與經濟鴻溝
 
 **日期:** 2025年9月24日
@@ -126,4 +129,4 @@ Tim Berners-Lee 和我在 2017 年提出了一項決議，讓... Tim Berners-Lee
 **Ro Khanna:** 謝謝。感謝。
 
 ---
-[**&laquo; 上一篇：平流層之眼：Near Space Labs 如何用 AI 改變地球影像**](../sections/11-near-space-labs-imaging.md) | [**下一篇：AI 的美國計畫：Mark Kelly 參議員提出公私合營的未來藍圖 &raquo;**](../sections/13-mark-kelly-ai-plan.md)
+[**&laquo; 上一篇：平流層之眼：Near Space Labs 如何用 AI 改變地球影像**]({{ site.baseurl }}/sections/11-near-space-labs-imaging.html) | [**下一篇：AI 的美國計畫：Mark Kelly 參議員提出公私合營的未來藍圖 &raquo;**]({{ site.baseurl }}/sections/13-mark-kelly-ai-plan.html)

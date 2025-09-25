@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # AI 的美國計畫：Mark Kelly 參議員提出公私合營的未來藍圖
 
 **日期:** 2025年9月24日
@@ -140,4 +143,4 @@
 **Mark Kelly:** 感謝。謝謝。
 
 ---
-[**&laquo; 上一篇：AI 的民主黨視角：Ro Khanna 議員談就業、監管與經濟鴻溝**](../sections/12-ro-khanna-democrats-view.md) | [**下一篇：AI 瞄準鏡：當智慧武器系統遇上無人機威脅 &raquo;**](../sections/14-allen-control-systems-defense.md)
+[**&laquo; 上一篇：AI 的民主黨視角：Ro Khanna 議員談就業、監管與經濟鴻溝**]({{ site.baseurl }}/sections/12-ro-khanna-democrats-view.html) | [**下一篇：AI 瞄準鏡：當智慧武器系統遇上無人機威脅 &raquo;**]({{ site.baseurl }}/sections/14-allen-control-systems-defense.html)

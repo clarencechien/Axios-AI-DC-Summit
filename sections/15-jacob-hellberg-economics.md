@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # AI 驅動的再工業化：白宮經濟顧問的宏觀願景
 
 **日期:** 2025年9月24日
@@ -84,4 +87,4 @@ Helberg 提出了一個大膽的論點：AI 將抹平發展中國家的勞動力
 **Maria Curi:** Jacob Helberg，非常感謝你。在我們大家休息之前，我只有幾個簡短的公告。
 
 ---
-[**&laquo; 上一篇：AI 瞄準鏡：當智慧武器系統遇上無人機威脅**](14-allen-control-systems-defense.md)
+[**&laquo; 上一篇：AI 瞄準鏡：當智慧武器系統遇上無人機威脅**]({{ site.baseurl }}/sections/14-allen-control-systems-defense.html)

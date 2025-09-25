@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # 晶片的戰爭：AMD 執行長 Lisa Su 談 AI 硬體競賽與國家戰略
 
 **日期:** 2025年9月24日
@@ -98,4 +101,4 @@
 **Lisa Su:** 謝謝。
 
 ---
-[**&laquo; 上一篇：白領大屠殺？Anthropic 創辦人深入解析 AI 對就業的衝擊與未來**](../sections/01-anthropic-jobs-impact.md) | [**下一篇：信任的基石：審計專業如何為 AI 打造護欄？ &raquo;**](../sections/03-trust-in-ai.md)
+[**&laquo; 上一篇：白領大屠殺？Anthropic 創辦人深入解析 AI 對就業的衝擊與未來**]({{ site.baseurl }}/sections/01-anthropic-jobs-impact.html) | [**下一篇：信任的基石：審計專業如何為 AI 打造護欄？ &raquo;**]({{ site.baseurl }}/sections/03-trust-in-ai.html)

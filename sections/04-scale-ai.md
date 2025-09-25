@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # 數據標籤的巨頭：Scale AI 新任 CEO 的首次公開訪談
 
 **日期:** 2025年9月24日
@@ -111,4 +114,4 @@
 **Jason Glickman:** 太好了。謝謝你。
 
 ---
-[**&laquo; 上一篇：信任的基石：審計專業如何為 AI 打造護欄？**](../sections/03-trust-in-ai.md) | [**下一篇：美中 AI 競賽：白宮顧問的賽局觀點 &raquo;**](../sections/05-white-house-advisor.md)
+[**&laquo; 上一篇：信任的基石：審計專業如何為 AI 打造護欄？**]({{ site.baseurl }}/sections/03-trust-in-ai.html) | [**下一篇：美中 AI 競賽：白宮顧問的賽局觀點 &raquo;**]({{ site.baseurl }}/sections/05-white-house-advisor.html)
