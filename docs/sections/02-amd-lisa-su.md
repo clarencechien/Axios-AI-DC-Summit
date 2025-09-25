@@ -98,4 +98,4 @@
 **Lisa Su:** 謝謝。
 
 ---
-[**&laquo; 上一篇：白領大屠殺？Anthropic 創辦人深入解析 AI 對就業的衝擊與未來**](./01-anthropic-jobs-impact.md) | [**下一篇：信任的基石：審計專業如何為 AI 打造護欄？ &raquo;**](./03-trust-in-ai.md)
+[**&laquo; 上一篇：白領大屠殺？Anthropic 創辦人深入解析 AI 對就業的衝擊與未來**](../sections/01-anthropic-jobs-impact.md) | [**下一篇：信任的基石：審計專業如何為 AI 打造護欄？ &raquo;**](../sections/03-trust-in-ai.md)

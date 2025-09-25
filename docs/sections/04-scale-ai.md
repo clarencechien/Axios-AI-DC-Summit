@@ -111,4 +111,4 @@
 **Jason Glickman:** 太好了。謝謝你。
 
 ---
-[**&laquo; 上一篇：信任的基石：審計專業如何為 AI 打造護欄？**](./03-trust-in-ai.md) | [**下一篇：美中 AI 競賽：白宮顧問的賽局觀點 &raquo;**](./05-white-house-advisor.md)
+[**&laquo; 上一篇：信任的基石：審計專業如何為 AI 打造護欄？**](../sections/03-trust-in-ai.md) | [**下一篇：美中 AI 競賽：白宮顧問的賽局觀點 &raquo;**](../sections/05-white-house-advisor.md)

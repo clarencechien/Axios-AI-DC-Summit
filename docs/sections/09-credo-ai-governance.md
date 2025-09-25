@@ -94,4 +94,4 @@ Credo AI 是一家專門圍繞「可信賴 AI」建立其業務的公司。Navin
 **Navina Singh:** 當然。
 
 ---
-[**&laquo; 上一篇：心電感應的邊界：AlterEgo 的無聲語音介面**](./08-alterego-silent-speech.md) | [**下一篇：AI 工廠的基石：HPE 首席架構師談整合、規模與能源挑戰 &raquo;**](./10-hpe-infrastructure.md)
+[**&laquo; 上一篇：心電感應的邊界：AlterEgo 的無聲語音介面**](../sections/08-alterego-silent-speech.md) | [**下一篇：AI 工廠的基石：HPE 首席架構師談整合、規模與能源挑戰 &raquo;**](../sections/10-hpe-infrastructure.md)

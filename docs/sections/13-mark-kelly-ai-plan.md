@@ -140,4 +140,4 @@
 **Mark Kelly:** 感謝。謝謝。
 
 ---
-[**&laquo; 上一篇：AI 的民主黨視角：Ro Khanna 議員談就業、監管與經濟鴻溝**](./12-ro-khanna-democrats-view.md) | [**下一篇：AI 瞄準鏡：當智慧武器系統遇上無人機威脅 &raquo;**](./14-allen-control-systems-defense.md)
+[**&laquo; 上一篇：AI 的民主黨視角：Ro Khanna 議員談就業、監管與經濟鴻溝**](../sections/12-ro-khanna-democrats-view.md) | [**下一篇：AI 瞄準鏡：當智慧武器系統遇上無人機威脅 &raquo;**](../sections/14-allen-control-systems-defense.md)

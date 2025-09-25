@@ -32,7 +32,7 @@
 *(音樂)*
 
 ---
-[**&laquo; 上一篇：開場白：在權力中心，定義 AI 的未來**](./00-ena-freed-intro.md) | [**下一篇：晶片的戰爭：AMD 執行長 Lisa Su 談 AI 硬體競賽與國家戰略 &raquo;**](./02-amd-lisa-su.md)
+[**&laquo; 上一篇：開場白：在權力中心，定義 AI 的未來**](../sections/00-ena-freed-intro.md) | [**下一篇：晶片的戰爭：AMD 執行長 Lisa Su 談 AI 硬體競賽與國家戰略 &raquo;**](../sections/02-amd-lisa-su.md)
 
 **Jim VandeHei:** 好的，謝謝你們來。
 

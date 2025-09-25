@@ -32,4 +32,4 @@ AI 不再僅僅是關於科技了。它是一個商業故事。政治、地緣�
 所以，事不宜遲，讓我們開始節目吧。接下來，我們將聽到兩位處於這場變革最前線的人物的聲音。為了開始那場對話，我想歡迎我們的執行長兼共同創辦人，來自 Axios 的 Jim VandeHei。
 
 ---
-[**下一篇：白領大屠殺？Anthropic 創辦人深入解析 AI 對就業的衝擊與未來 &raquo;**](./01-anthropic-jobs-impact.md)
+[**下一篇：白領大屠殺？Anthropic 創辦人深入解析 AI 對就業的衝擊與未來 &raquo;**](../sections/01-anthropic-jobs-impact.md)
